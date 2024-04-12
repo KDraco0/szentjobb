@@ -3,8 +3,9 @@
     width: 950px;
     background-color: #571C0A;
     box-shadow: 5px 5px 5px #3F1407;
-    margin: 20px;
-    padding: auto;
+    display: block;
+    margin: auto;
+    padding: 20px;
 }
 body{
     background-color: #571807;

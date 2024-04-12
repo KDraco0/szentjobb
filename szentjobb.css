@@ -63,4 +63,18 @@ hr
     font-size: 12pt;
 }
 
+#apatsag{
+    float: right;
+}
 
+#kapolna{
+    float: left;
+}
+
+#vonat{
+    float: right;
+}
+
+#kormenet{
+    float: left;
+}
